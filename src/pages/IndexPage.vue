@@ -12,6 +12,6 @@ import { defineComponent } from "vue";
 export default defineComponent({
   name: "IndexPage",
 
-  // teste commi
+  // teste commi  qaaa
 });
 </script>
