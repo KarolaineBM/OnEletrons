@@ -11,6 +11,6 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   name: "LanddingPage",
-  //teste comentario
+  //teste2 comentario
 });
 </script>
